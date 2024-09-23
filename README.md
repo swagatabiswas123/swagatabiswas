@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Swagata Biswas</h1>
 <h3 align="center">
-  💻 As a Software Developer and Data Analyst at Agile Data Pro, I specialize in delivering actionable insights through Power BI, helping businesses make informed decisions.<br> 
-  📊 My expertise lies in creating robust data visualizations and streamlining processes for data-driven success. I’m now focused on expanding my skill set in Python and transitioning into the data science domain to explore deeper analytical techniques.<br>
-  🎯 My goal is to bridge technology and data to solve complex problems and drive innovation in the industry. Always eager to embrace new challenges and stay at the forefront of data analytics trends.
+ <br> 💻 As a Software Developer and Data Analyst at Agile Data Pro, I specialize in delivering actionable insights through Power BI, helping businesses make informed decisions.</br> 
+
+  
+ <br> 📊 My expertise lies in creating robust data visualizations and streamlining processes for data-driven success. I’m now focused on expanding my skill set in Python and transitioning into the data science domain to explore deeper analytical techniques.</br>
+  <br>🎯 My goal is to bridge technology and data to solve complex problems and drive innovation in the industry. Always eager to embrace new challenges and stay at the forefront of data analytics trends.</br>
 </h3>
 
 <p align="center">
